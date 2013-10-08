@@ -9,4 +9,4 @@ Collection Plugin has many events and methods that turns your life easer.
 Documentation
 ========================
 
-Please, visit the <a href="tsantos84.github.io/jquery-collection">official website</a> to see the usage and demos.
+Please, visit the <a href="http://tsantos84.github.io/jquery-collection">official website</a> to see the usage and demos.
